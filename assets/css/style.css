@@ -2987,7 +2987,7 @@ body {
   font-size: 0.75rem;
   padding: 10px;
   padding: 0.625rem;
-  background-color: #d7d7d7;
+  background-color: #fff;
   border-radius: 7px;
   -moz-opacity: 0.3;
   -khtml-opacity: 0.3;
@@ -3199,7 +3199,7 @@ body {
 .login input.input-submit {
   color: #fff;
   border: 0;
-  background-color: #2eb18d;
+  background-color: #fff;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -3220,7 +3220,7 @@ body {
 }
 .login .login-error {
   display: block;
-  background-color: #f76643;
+  background-color: #fff;
   color: #fff;
   font-size: 10pt;
   line-height: 10pt;
